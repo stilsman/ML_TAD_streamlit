@@ -1,7 +1,7 @@
 import pickle
 
-import pandas as pd
 import numpy as np
+import pandas as pd
 import streamlit as st
 from sklearn.metrics import confusion_matrix, classification_report
 
